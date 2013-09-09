@@ -1,0 +1,33 @@
+.info{
+	height: 20px;
+	border-radius: 5px;
+	border: 1px solid #2947B5;
+	background-color: #B5E7FE;
+	color: #2947B5;
+	text-align: center;
+}
+
+.success{
+	height: 20px;
+	border-radius: 5px;
+	border: 1px solid #4B9532;
+	background-color: #B1DB93;
+	color: #4B9532;
+	text-align: center;
+}
+.error{
+	height: 20px;
+	border-radius: 5px;
+	border: 1px solid #C4261B;
+	background-color: #FEC9C1;
+	color: #C4261B;
+	text-align: center;
+}
+
+.delete_form input[type = submit]{
+	background-color: transparent;
+	border: none;
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
